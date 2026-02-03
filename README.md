@@ -14,3 +14,11 @@ Mod also adds a few new weapons with unique mechanic:
 * Clockwork Longsword - Powerful Early-Game weapon. Try to charge it before trying to attack someone.
 * Mechanical Cape - А spear that combines magic and machinery.
 * A1OI24J - *@(&H)#VMNCMNC82394n4v-23vn2 -)N&v#)(093v$30N-9904V09v#90Nv07VN40-9)v(_v)_(0_V4093
+
+## Resources
+During your journey you'll find new resources:
+* Zinc Ore - Ore which you can combine with Copper to get Brass Alloy!
+* Brass Alloy - Ingredient which is used for most crafts added by this mod.
+* Cogwheel - Resource dropped by drones. Also used in mod's crafts.
+
+And more ingredients...
