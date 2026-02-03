@@ -4,7 +4,8 @@ Hytale mod for Hytale ModJam including small stoey-line, new weapons, resources 
 Thanks Hexvane for WorldGenOverlayLib: https://www.curseforge.com/hytale/mods/worldgenoverlaylib
 
 ## Story
-You found few robot parts when you arrived to this world... Maybe you should repair robot?
+You found few robot parts when you arrived to this world... Maybe you should repair robot?  
+
 During your journey you'll discover new ore and meet Drones - unknown creatures wandering around the world.
 Also, to repair robot you'll need to defeat strong boss: The Core, which you can find in completely new Dungeon called "Echo Chamber".
 
