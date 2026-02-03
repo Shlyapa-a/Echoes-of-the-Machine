@@ -1,5 +1,5 @@
 # Echoes-of-the-Machine
-Hytale mod for Hytale ModJam including small stoey-line, new weapons, resources and bossfight
+Hytale mod for Hytale ModJam including small story-line, new weapons, resources and bossfight
 
 Thanks Hexvane for WorldGenOverlayLib: https://www.curseforge.com/hytale/mods/worldgenoverlaylib
 
