@@ -9,7 +9,7 @@ During your journey you'll discover new ore and meet Drones - unknown creatures 
 Also, to repair robot you'll need to defeat strong boss: The Core, which you can find in completely new Dungeon called "Echo Chamber".
 
 ## Weapons
-Mod also adds a few new weapons with unique mechanic:\
-* Clockwork Longsword - Powerful Early-Game weapon. Try to charge it before trying to attack someone.\
-* Mechanical Cape - Spear, which is merges magic and machinery.\
-* A1OI24J - *@(&H)#VMNCMNC82394n4v-23vn2 -)N&v#)(093v$30N-9904V09v#90Nv07VN40-9)v(_v)_(0_V4093\
+Mod also adds a few new weapons with unique mechanic:
+* Clockwork Longsword - Powerful Early-Game weapon. Try to charge it before trying to attack someone.
+* Mechanical Cape - Spear, which is merges magic and machinery.
+* A1OI24J - *@(&H)#VMNCMNC82394n4v-23vn2 -)N&v#)(093v$30N-9904V09v#90Nv07VN40-9)v(_v)_(0_V4093
